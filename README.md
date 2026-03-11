@@ -75,13 +75,8 @@ These insights can assist in **improving road safety measures and awareness**.
 
 ## 📷 Dashboard Preview
 
-(Add Power BI dashboard screenshots here)
-
-Example:
-
-```
-![Dashboard Screenshot](https://github.com/brickstoviks008/Coimbatore-accidents-analysis/blob/main/P2-1.png)
-```
+![Alt text](https://github.com/brickstoviks008/Coimbatore-accidents-analysis/blob/main/P2-1.png)
+![Alt text](https://github.com/brickstoviks008/Coimbatore-accidents-analysis/blob/main/P2-2.png)
 
 ---
 

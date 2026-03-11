@@ -80,7 +80,7 @@ These insights can assist in **improving road safety measures and awareness**.
 Example:
 
 ```
-![Dashboard Screenshot](dashboard.png)
+![Dashboard Screenshot](https://github.com/brickstoviks008/Coimbatore-accidents-analysis/blob/main/P2-1.png)
 ```
 
 ---
